@@ -1,5 +1,6 @@
 import pandas as pd 
 from IPython.display import display 
+import seaborn as sns
 
 dados = pd.read_csv('dados.csv')
 
