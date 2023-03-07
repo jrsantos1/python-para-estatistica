@@ -1,4 +1,4 @@
-## Estatistica e Datascience com python
+## Estatistica e Data science com python (pandas, numpy, seaborn)
 
 ### Assuntos estudados: 
 
@@ -10,3 +10,14 @@
   - Medidas de tendência central;
   - Medidas separatrizes;
   - Medidas de dispersão.
+
+#### Módulo 2 
+
+- Probabilidade e Amostragem 
+
+  - Distribuição binomial;
+  - Distribuição de poisson;
+  - Distribuição normal;
+  - Técnicas de amostragem;
+  - Níveis e Intervalo de Confiança;
+  - Cálculo de amostra.
